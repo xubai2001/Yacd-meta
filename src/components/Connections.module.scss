@@ -68,24 +68,3 @@
   transition: border-color 0.2s cubic-bezier(0.645, 0.045, 0.355, 1);
   width: 100%;
 }
-
-.sourceipContainer {
-  display: flex;
-  align-items: center;
-  flex-wrap: wrap;
-  flex-direction: row;
-  justify-content: space-evenly;
-}
-
-.sourceipTable {
-  input {
-    width: 120px;
-  }
-}
-
-.columnManagerRow {
-  width: 200px;
-  display: flex;
-  margin: 5px 0;
-  justify-content: space-between;
-}
